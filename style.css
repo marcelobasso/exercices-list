@@ -1,0 +1,48 @@
+ul#output {
+    list-style-type: none;
+    padding-left: 16px;
+}
+
+body {
+    padding: 16px;
+}
+
+h1#title {
+    font-size: calc(1.575rem + 3.5vw);
+}
+
+div#title-container {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+div#container {
+    display: block;
+    margin: 16px auto;
+    max-width: 800px;
+}
+
+div#output {
+    padding: 8px;
+    margin-top: 48px;
+    box-shadow: 2px 2px 5px 2px #ced4da;
+}
+
+div#output span#placeholder {
+    margin-top: 0;
+}
+
+dl.output-text {
+    margin: 8px 0;
+    --bs-gutter-y: .5rem
+}
+
+dt {
+    margin-bottom: 0 !important;
+}
+
+input#input-info {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ced4da;
+}
