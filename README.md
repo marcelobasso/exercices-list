@@ -2,7 +2,7 @@
 
 Simple JS algorithm (and basic interface) to randomly sort exercices based on list size and priority. Made to help on studying to tests.
 
-[Access live tool](https://bassocelo.github.io/exercices-list/) <br>
+[Access live tool](https://marcelobasso.github.io/exercices-list/) <br>
 
 ### pattern of input:
 > [list number (option)-][list size]["*" if is priorital list]
